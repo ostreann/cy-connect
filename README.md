@@ -6,4 +6,4 @@ Les règles du jeu: Le but du jeu est d'aligner 5 pieces soit en vertical, en ho
 
 touche du jeux: appuyer sur 0 si vous voulez commencer une nouvelle partie et 1 si vous voulez reprendre la partie sauvegardée appuyez sur 0 pour sauvegarder la partie pour touner à droite appuyer sur 1 et 2 pour la gauche pour le reste tout est indiqué clairement dans le jeu
 
-bug dans le programme: -si il n'y a pas de parie sauvegardé et que l'on appuie sur 1 pour essayer de reprendre une partie, il va y avoir une erreur de segmentation car il n'y a rien de sauvegardé. -quand on sauvegarde si on appuis sur une lettre ou un autre caractère ça sauvegarde.
+bug dans le programme: -si il n'y a pas de partie sauvegardé et que l'on appuie sur 1 pour essayer de reprendre une partie, il va y avoir une erreur de segmentation car il n'y a rien de sauvegardé. -quand on sauvegarde si on appuis sur une lettre ou un autre caractère ça sauvegarde.
